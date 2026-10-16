@@ -3,7 +3,7 @@ It is a simple Portfolio i made to learn Tailwind.
 ## Description
 I used to be good at CSS and Tailwind, but then vibe coding got me and i forgot most of it. Now i am relearning it from the start. The hardest part was that i barely remember any CSS, so Tailwind felt very hard again. I like how polished the ui looks. I still need to add more projects and make the ui even better.
 ### ScreenShots
-![alt text](images/Capture.PNG)
+ ![hello why are you reading the readme raw](https://user-cdn.hackclub-assets.com/01a145ae-e99f-72a1-b9ef-bb0eefc01b16/Capture.PNG)
 ## Getting Started
 ### Dependencies
 * A modern Browser
